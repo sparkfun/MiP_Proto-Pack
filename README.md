@@ -1,4 +1,4 @@
-MiP_Proto-Pack
+MiP_Micro-Pack
 ==============
 
-A smaller proto-board to fit inside the MiP backpack
+And Arduino compatible backpack for the MiP
