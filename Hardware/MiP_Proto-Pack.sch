@@ -16579,7 +16579,7 @@ Standard 4-pin 0.1" header. Use with straight break away headers (SKU : PRT-0011
 <busses>
 </busses>
 <nets>
-<net name="N$1" class="0">
+<net name="6V" class="0">
 <segment>
 <pinref part="JP11" gate="G$1" pin="1"/>
 <pinref part="JP1" gate="G$1" pin="1"/>
@@ -16587,7 +16587,7 @@ Standard 4-pin 0.1" header. Use with straight break away headers (SKU : PRT-0011
 <label x="121.92" y="101.6" size="1.778" layer="95"/>
 </segment>
 </net>
-<net name="N$2" class="0">
+<net name="TX" class="0">
 <segment>
 <pinref part="JP11" gate="G$1" pin="2"/>
 <pinref part="JP1" gate="G$1" pin="2"/>
@@ -16595,7 +16595,7 @@ Standard 4-pin 0.1" header. Use with straight break away headers (SKU : PRT-0011
 <label x="121.92" y="99.06" size="1.778" layer="95"/>
 </segment>
 </net>
-<net name="N$3" class="0">
+<net name="RX" class="0">
 <segment>
 <pinref part="JP11" gate="G$1" pin="3"/>
 <pinref part="JP1" gate="G$1" pin="3"/>
@@ -16603,7 +16603,7 @@ Standard 4-pin 0.1" header. Use with straight break away headers (SKU : PRT-0011
 <label x="121.92" y="96.52" size="1.778" layer="95"/>
 </segment>
 </net>
-<net name="N$4" class="0">
+<net name="GND" class="0">
 <segment>
 <pinref part="JP11" gate="G$1" pin="4"/>
 <pinref part="JP1" gate="G$1" pin="4"/>
