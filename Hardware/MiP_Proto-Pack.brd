@@ -283,8 +283,8 @@
 <hole x="15.5194" y="13.7668" drill="3.2"/>
 <hole x="-14.224" y="21.4376" drill="3.2"/>
 <text x="0" y="2.159" size="1.27" layer="21" font="vector" ratio="15" align="center">MiP Proto-Pack</text>
-<text x="31.75" y="-9.652" size="1.6764" layer="51" ratio="15">Casey Kuhns</text>
-<text x="0" y="1.143" size="1.016" layer="16" font="vector" ratio="15" rot="MR0" align="center">v01</text>
+<text x="19.05" y="-10.16" size="1.6764" layer="51" ratio="15">Casey Kuhns</text>
+<text x="0" y="1.143" size="1.016" layer="16" font="vector" ratio="15" rot="MR0" align="center">v10</text>
 <text x="-15.24" y="32.004" size="0.8128" layer="21" font="vector" ratio="15" align="center">GND</text>
 <text x="-15.494" y="30.48" size="0.8128" layer="21" font="vector" ratio="15" align="center">RX</text>
 <text x="-15.494" y="28.956" size="0.8128" layer="21" font="vector" ratio="15" align="center">TX</text>
@@ -293,6 +293,7 @@
 <text x="-19.05" y="30.734" size="0.8128" layer="22" font="vector" ratio="15" rot="MR270" align="center">RX</text>
 <text x="-19.05" y="28.702" size="0.8128" layer="22" font="vector" ratio="15" rot="MR270" align="center">TX</text>
 <text x="-17.272" y="25.146" size="0.8128" layer="22" font="vector" ratio="15" rot="MR0" align="center">6V</text>
+<text x="0" y="2.159" size="1.27" layer="22" font="vector" ratio="15" rot="MR0" align="center">MiP Proto-Pack</text>
 </plain>
 <libraries>
 <library name="SparkFun-Aesthetics">
@@ -1651,7 +1652,7 @@ design rules under a new name.
 </pass>
 </autorouter>
 <elements>
-<element name="FRAME1" library="SparkFun-Aesthetics" package="CREATIVE_COMMONS" value="FRAME-LETTER" x="5.0546" y="-9.525"/>
+<element name="FRAME1" library="SparkFun-Aesthetics" package="CREATIVE_COMMONS" value="FRAME-LETTER" x="-11.43" y="-10.16"/>
 <element name="LOGO1" library="SparkFun-Aesthetics" package="SFE_LOGO_NAME_FLAME_.1" value="SFE_LOGO_NAME_FLAME.1_INCH" x="-5.969" y="54.61"/>
 <element name="JP11" library="SparkFun-Connectors" package="1X04-1.5MM_JST" value="" x="-17.272" y="27.432" rot="MR90"/>
 <element name="LOGO2" library="SparkFun-Aesthetics" package="OSHW-LOGO-S" value="OSHW-LOGOS" x="-6.35" y="59.69"/>
