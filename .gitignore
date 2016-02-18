@@ -1,4 +1,25 @@
 #################
+## SparkFun Useful stuff
+#################
+
+## AVR Development
+*.eep
+*.elf
+*.lst
+*.lss
+*.sym
+*.d
+*.o
+*.srec
+*.map
+
+## Notepad++ backup files
+*.bak
+
+## BOM files
+*bom*
+
+#################
 ## Eclipse
 #################
 
@@ -33,16 +54,9 @@ local.properties
 ## Eagle
 #############
 
-# Ignore the board and schematic backup files (and the csv, ods BOMs)
+# Ignore the board and schematic backup files
 *.b#?
 *.s#?
-*.csv#
-*.csv
-*.ods
-*.G??
-*.ZIP
-*.TXT
-*.dri
 
 
 #################
@@ -143,6 +157,21 @@ Desktop.ini
 
 
 #############
+## Mac OS
+#############
+
+.DS_Store
+
+
+#############
+## Linux
+#############
+
+# backup files (*.bak on Win)
+*~
+
+
+#############
 ## Python
 #############
 
@@ -173,6 +202,3 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
-
-# Mac crap
-.DS_Store
